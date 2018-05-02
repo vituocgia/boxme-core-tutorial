@@ -1,0 +1,6 @@
+Django==2.0.5
+git+https://bitbucket.org/vituocgia/boxme-core.git
+git+https://bitbucket.org/vituocgia/boxme-jwt.git
+gunicorn==19.8.1
+PyJWT==1.6.1
+pytz==2018.4
