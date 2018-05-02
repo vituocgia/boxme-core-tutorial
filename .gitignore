@@ -1,6 +1,7 @@
 .idea
 venv/
 .env
+.vscode
 .coverage
 music/__pycache__/
 music/migrations/__pycache__/

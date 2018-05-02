@@ -1,6 +1,6 @@
 # Music Service API
 ## About
-This is a simple music service API that I created as an example for a [tutorial](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5) for
+This is a simple music service API that I created as an example for a [tutorial](https://dev-docs.boxme.work/..../) for
 learning BoxMe-Core.
 ## Goal
 The goal of this project is teach BoxMe-Core on novice programmers.
