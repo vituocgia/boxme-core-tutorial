@@ -95,6 +95,7 @@ class LoginView(generics.CreateAPIView):
     # This permission class will over ride the global permission
     # class setting
     permission_classes = (permissions.AllowAny,)
+    serializer_class = UserSerializer
 
     queryset = User.objects.all()
 
