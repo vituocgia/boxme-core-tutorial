@@ -3,6 +3,7 @@ venv/
 .env
 .vscode
 .coverage
+db.sqlite3
 music/__pycache__/
 music/migrations/__pycache__/
 api/__pycache__/
